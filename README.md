@@ -22,8 +22,8 @@ This project contains an Excel dashboard analyzing global education data for 202
 Open the file `YourName_GlobalEduDashboard.xlsx` and use the `Dashboard` sheet to interact with the data. Use the slicers to filter by region or country and explore various metrics.
 
 ## Author
-Your Name  
-Your email or contact (optional)
+Ancily Mathew
+ancilymathew13@gmail.com
 
 ## Date
 June 2025
